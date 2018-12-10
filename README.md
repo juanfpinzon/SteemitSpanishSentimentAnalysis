@@ -1,10 +1,12 @@
 # SteemitSpanishSentimentAnalysis
-ML and Deep Learning Implementations for Spanish Sentiment Analysis /n
+ML and Deep Learning Implementations for Spanish Sentiment Analysis 
 
   Machine Learning:
     - Naiive Bayes
     - Logistic Regression.
-    - SVM /n
+    - SVM 
+    
+    
   Deep Learning:
     - 1D CNN
     - LSTM
